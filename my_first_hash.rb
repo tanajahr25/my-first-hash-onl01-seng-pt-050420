@@ -5,7 +5,7 @@ my_hash = {"name" => "Tanajah", "weight" => "under 150 lbs"}
 end
 
 def shipping_manifest
-  shipping_manifest = {"corsets" => 
+  shipping_manifest = {"corsets" => "whale bone corsets", 
   
   
 end
